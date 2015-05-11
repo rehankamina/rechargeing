@@ -88,7 +88,7 @@ function popup(url)
         </div>
 
 
-<a href="javascript: void(0)" onclick="popup('https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.gamesfunia.com%2F2014%2F07%2Fancient-jewels-play-free-online-facebook-game.html&display=popup')"><img src="http://i.stack.imgur.com/rffGp.png" width="250"></a>
+<a href="javascript: void(0)" onclick="popup('https://www.facebook.com/sharer/sharer.php?u=https://www.facebook.com/rechargeingmobile/photos/a.456307501194940.1073741828.456298894529134/456307731194917/?type=1')"><img src="http://i.stack.imgur.com/rffGp.png" width="250"></a>
 <br/><br/>
         
 
